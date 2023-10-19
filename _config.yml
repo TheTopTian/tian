@@ -137,7 +137,7 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: TheTopTian/website      # <your-github-user-name>/<your-github-repo-name>
+  repo: TheTopTian/tian      # <your-github-user-name>/<your-github-repo-name>
   repo_id: R_kgDOJYQmyQ
   category: General              # name of the category under which discussions will be created
   category_id: DIC_kwDOJYQmyc4CV67R
