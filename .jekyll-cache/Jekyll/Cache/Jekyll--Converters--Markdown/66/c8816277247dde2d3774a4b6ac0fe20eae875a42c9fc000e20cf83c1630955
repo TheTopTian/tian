@@ -1,0 +1,369 @@
+I"%7<!-- _pages/publications.md -->
+<div class="publications">
+  <h2 class="year">2022</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/tian/assets/img/publication_preview/brownian-motion.gif" class="preview z-depth-1 rounded" width="auto" height="auto" alt="brownian-motion.gif" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+</div>
+
+        <!-- Entry bib key -->
+        <div id="muller2022diffusion" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Diffusion Probabilistic Models beat GANs on Medical Images</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        Gustav Müller-Franzes,&nbsp;Jan Moritz Niehues,&nbsp;Firas Khader, and
+          <span class="more-authors" title="click to view 8 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '8 more authors' ? 'Soroosh Tayebi Arasteh, Christoph Haarburger, Christiane Kuhl, Tianci Wang, Tianyu Han, Sven Nebelung, Jakob Nikolas Kather,  others' : '8 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">8 more authors</span></div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>arXiv preprint arXiv:2212.07501</em>, 2022
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/tian/assets/img/publication_preview/wave-mechanics.gif" class="preview z-depth-1 rounded" width="auto" height="auto" alt="wave-mechanics.gif" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+</div>
+
+        <!-- Entry bib key -->
+        <div id="khader2022medical" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Medical Diagnosis with Large Scale Multimodal Transformers–Leveraging Diverse Data for More Accurate Diagnosis</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        Firas Khader,&nbsp;Gustav Mueller-Franzes,&nbsp;Tianci Wang, and
+          <span class="more-authors" title="click to view 8 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '8 more authors' ? 'Tianyu Han, Soroosh Tayebi Arasteh, Christoph Haarburger, Johannes Stegmaier, Keno Bressem, Christiane Kuhl, Sven Nebelung,  others' : '8 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">8 more authors</span></div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>arXiv preprint arXiv:2212.09162</em>, 2022
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2023</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/tian/assets/img/publication_preview/Nike.gif" class="preview z-depth-1 rounded" width="auto" height="auto" alt="Nike.gif" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+</div>
+
+        <!-- Entry bib key -->
+        <div id="khader2023multimodal" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Multimodal Deep Learning for Integrating Chest Radiographs and Clinical Parameters: A Case for Transformers</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        Firas Khader,&nbsp;Gustav Müller-Franzes,&nbsp;Tianci Wang, and
+          <span class="more-authors" title="click to view 8 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '8 more authors' ? 'Tianyu Han, Soroosh Tayebi Arasteh, Christoph Haarburger, Johannes Stegmaier, Keno Bressem, Christiane Kuhl, Sven Nebelung,  others' : '8 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">8 more authors</span></div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>Radiology</em>, 2023
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/tian/assets/img/publication_preview/cube.gif" class="preview z-depth-1 rounded" width="auto" height="auto" alt="cube.gif" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+</div>
+
+        <!-- Entry bib key -->
+        <div id="muller2023multimodal" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">A multimodal comparison of latent denoising diffusion probabilistic models and generative adversarial networks for medical image synthesis</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        Gustav Müller-Franzes,&nbsp;Jan Moritz Niehues,&nbsp;Firas Khader, and
+          <span class="more-authors" title="click to view 8 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '8 more authors' ? 'Soroosh Tayebi Arasteh, Christoph Haarburger, Christiane Kuhl, Tianci Wang, Tianyu Han, Teresa Nolte, Sven Nebelung,  others' : '8 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">8 more authors</span></div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>Scientific Reports</em>, 2023
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/tian/assets/img/publication_preview/number.gif" class="preview z-depth-1 rounded" width="auto" height="auto" alt="number.gif" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+</div>
+
+        <!-- Entry bib key -->
+        <div id="khader2023medical" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Medical transformer for multimodal survival prediction in intensive care: integration of imaging and non-imaging data</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        Firas Khader,&nbsp;Jakob Nikolas Kather,&nbsp;Gustav Müller-Franzes, and
+          <span class="more-authors" title="click to view 8 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '8 more authors' ? 'Tianci Wang, Tianyu Han, Soroosh Tayebi Arasteh, Karim Hamesch, Keno Bressem, Christoph Haarburger, Johannes Stegmaier,  others' : '8 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">8 more authors</span></div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>Scientific Reports</em>, 2023
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/tian/assets/img/publication_preview/smile.jpg" class="preview z-depth-1 rounded" width="auto" height="auto" alt="smile.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+</div>
+
+        <!-- Entry bib key -->
+        <div id="han2023medical" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Medical Foundation Models are Susceptible to Targeted Misinformation Attacks</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        Tianyu Han,&nbsp;Sven Nebelung,&nbsp;Firas Khader, and
+          <span class="more-authors" title="click to view 8 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '8 more authors' ? 'Tianci Wang, Gustav Mueller-Franzes, Christiane Kuhl, Sebastian Försch, Jens Kleesiek, Christoph Haarburger, Keno K Bressem,  others' : '8 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">8 more authors</span></div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>arXiv preprint arXiv:2309.17007</em>, 2023
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+
+</div>
+:ET

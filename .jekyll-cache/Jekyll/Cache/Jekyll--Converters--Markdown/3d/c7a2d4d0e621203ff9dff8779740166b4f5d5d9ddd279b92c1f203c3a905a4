@@ -1,0 +1,55 @@
+I"�<p>Recently the dataset of the master thesis met some problems:</p>
+
+<hr />
+<p>The current dataset I am using is different from the publish dataset: <a href="https://stanfordmlgroup.github.io/competitions/mrnet/">MRNet</a>. MRNet has the labels with only 0 and 1 in 3 different diseases. 0 means the patient doesn’t have this kind of diseass and 1 means the patient has.</p>
+
+<p>For the new dataset, I received a <code class="language-plaintext highlighter-rouge">.json</code> file which included the coordinates’ information from different diseases from each patient. If the patient has coordinate on this specific disease, then that means the patient has this diseases and the location is on that coordinate. But I met some problems during extracting them:</p>
+
+<h4 id="problems-list">Problems list</h4>
+<ul>
+    <li>1. Some cases show several times with different 'projectNames'</li>
+    <li>2. Some 3D coordinates show several times</li>
+    <li>3. Old label and new label don't match each other</li>
+    <li>4. There are 130+ different diseases need to be grouped up</li>
+</ul>
+
+<blockquote>
+  <p>They have 7 different ‘projectName’s inside and some of them have conlicts between each others.</p>
+</blockquote>
+
+<hr />
+
+<p>The current grouping method:</p>
+
+<h4 id="acl">ACL</h4>
+<ul>
+    <li>Vord. Kreuzband-Faserunterbrechung</li>
+    <li>Vord. Kreuzband-Konturunterbrechung</li>
+    <li>Vord. Kreuzband-Resorption</li>
+</ul>
+
+<h4 id="pcl">PCL</h4>
+<ul>
+    <li>Hint. Kreuzband-Faserunterbrechung</li>
+    <li>Hint. Kreuzband-Konturunterbrechung</li>
+    <li>Hint. Kreuzband-Resorption</li>
+</ul>
+
+<h4 id="inner_meniscus">Inner_Meniscus</h4>
+<ul>
+    <li>Horizontal R.</li>
+    <li>Radiaer R.</li>
+    <li>Wurzel R.</li>
+    <li>Korbhenkelriss</li>
+    <li>Komplex/Lappen/Longitudinal R.</li>
+</ul>
+
+<h4 id="outer_meniscus">Outer_Meniscus</h4>
+<ul>
+    <li>Horizontal R.</li>
+    <li>Radiaer R.</li>
+    <li>Wurzel R.</li>
+    <li>Korbhenkelriss</li>
+    <li>Komplex/Lappen/Longitudinal R.</li>
+</ul>
+:ET

@@ -2,96 +2,80 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Tianci Wang
     - name: Date of Birth
-      value: 14th March 1879
+      value: 13th December 1997
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master
+      institution: RWTH Aachen University
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Major in Robotic Systems.
+    - title: Bachelor
+      institution: Shanghai University
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Major in Mechanical Engineering.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Student Assistant
+      institution: Shanghai University Workshop
+      year: 2017.06 - 2017.09
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Used Solidworks to make 3D models for the products
+        - Improved mechanical structure to facilitate production
+
+    - title: Research Assistant
+      institution: RWTH Institut für Allgemeine Mechanik (IAM)
+      year: 2019.10 - 2020.03
       description:
-        - Description 1.
-        - Description 2.
+        - Studied the physical properties of 3D printed metallic glasses
+        - Used Avizo and micro-scanner to rebuilt the inside structure
+        - Used Abaqus to simulate the fracture and compared it with the real fracture
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Production Management
+      institution: Shangahi 
+      year: 2020.07 - 2020.08
       description:
+        - Studied the properties of solar panel materials for spaceflight
+        - Helped to manage the production of solar boards
+        - Used CAD and Solidworks to create models for solar boards
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Research Assistant
+      institution: Machine Learning and Musculoskeletal Imaging (Uniklinik RWTH Aachen)
+      year: 2022.05 - 2022.11
+      description: 
+        - Used deep learning to predict the survival dates of patients with brain tumors
+        - Used stable diffusion to train the chest x-rays and generate images with related diseases
+        - Used vision transformers to classify the knee diseases and locate them
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2017
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Outstanding volunteers in Shanghai
+    - year: 2020
       items: 
-        - Max Planck Medal
+        - Outstanding bachelor thesis
+    - year: 2023
+      items: 
+        - Top grade master thesis
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Deep learning in medical field.
+    - title: Mechanial design.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Riding, playing table tennis
