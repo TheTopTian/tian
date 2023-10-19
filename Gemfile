@@ -1,8 +1,7 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'classifier-reborn'
-    gem 'listen'
-    gem 'wdm', '>= 0.1.0'
+    gem 'wdm', '>= 0.1.0', platforms: [:x64_mingw]
     gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
