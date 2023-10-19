@@ -32,6 +32,8 @@ jobs:
     - name: Fix permission
       run: |
         chmod a+x bin/*
+        git config --global user.email "tianci.wang@rwth-aachen.de"
+        git config --global user.name "TheTopTian"
         git commit -am "add execute permision to bin/deploy"
     - name: Deploy 🚀
       if: github.event_name != 'pull_request'
